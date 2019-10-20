@@ -116,6 +116,7 @@
 /* Trending section*/
 /* Title */
 .trending-heading{
+	padding-top: 50px;
 	text-align: center;
 	width: 100%; 
 	border-bottom: 1.5px dotted #000; 
